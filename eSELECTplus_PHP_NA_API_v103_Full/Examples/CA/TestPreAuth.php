@@ -23,6 +23,7 @@ $txnArray=array('type'=>'preauth',
          'expdate'=>'0806',
          'crypt_type'=>'7',
          'dynamic_descriptor'=>'123456'
+         //,'wallet_indicator' => '' //Refer to documentation for details
            );
 
 

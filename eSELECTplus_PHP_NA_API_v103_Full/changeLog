@@ -1,3 +1,6 @@
+Version 1.0.3
+	- Added support for wallet_indicator in preauth and purchase
+	
 Version 1.0.2
 	- Added support for expdate in Vault Cavv Transactions
 	- Added additional examples for Convenience Fee for Canada

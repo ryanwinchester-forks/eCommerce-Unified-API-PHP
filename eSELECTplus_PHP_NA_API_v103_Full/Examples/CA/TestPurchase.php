@@ -33,6 +33,7 @@ $txnArray=array('type'=>$type,
    			    'expdate'=>$expiry_date,
    			    'crypt_type'=>$crypt,
    			    'dynamic_descriptor'=>$dynamic_descriptor
+				//,'wallet_indicator' => '' //Refer to documentation for details
    		       );
 
 /**************************** Transaction Object *****************************/
