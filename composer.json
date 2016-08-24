@@ -1,0 +1,19 @@
+{
+    "name": "ryanwinchester/moneris-php",
+    "description": "Moneris API Wrapper",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ryan Winchester",
+            "email": "fungku@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Moneris\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
